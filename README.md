@@ -24,7 +24,7 @@ FlyXpert is a simple flight booking system that allows users to book flight tick
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/RishiSoni252004/FlyXpert-Flight-Booking-System
+   git clone https://github.com/shaurya123saxena/FlyXpert-Project.git
    ```
 2. Navigate to the project directory:
    ```sh
