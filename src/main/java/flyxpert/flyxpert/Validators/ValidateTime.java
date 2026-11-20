@@ -9,6 +9,9 @@ public class ValidateTime extends Validator {
 
     @Override
     public Boolean validateData(String time) {
+        if (time == null) {
+            return false;
+        }
         Matcher matcher = pattern.matcher(time);
         return matcher.matches();
     }
